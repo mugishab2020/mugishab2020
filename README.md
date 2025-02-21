@@ -1,20 +1,33 @@
-Edson Mugisha
-💻 Backend & Full-Stack Developer | 🚀 Passionate about building scalable, efficient web applications
+✨ Edson Mugisha
+💻 Backend & Full-Stack Developer | 🚀 Passionate about building efficient, scalable web applications and APIs
 
-🛠️ Technologies I Work With:
-Backend: Node.js, Express.js, Django, Django REST Framework, FastAPI
-Frontend: React, HTML5
-Databases: MongoDB, PostgreSQL, MySQL, MySQL Server
-Languages: JavaScript, Python
-🌟 What I Specialize In:
-Building RESTful APIs and backend services
-Full-stack development with modern JavaScript frameworks
-Database design, optimization, and management
-Secure user authentication and role-based access control
-Web application performance and scalability
-📚 Currently Learning:
-Advanced security practices for Node.js and Django
-Exploring new cloud deployment options
-🔗 Projects:
-Check out my repositories for hands-on examples of applications in areas such as e-commerce, health tech, and library systems!
+🛠️ Skills & Technologies
+Backend:
+🟢 Node.js & Express.js
+🟣 Django & Django REST Framework
+🟦 FastAPI
+Frontend:
+⚛️ React
+🌐 HTML5
+Databases:
+🗃️ MongoDB, PostgreSQL, MySQL, MySQL Server
+Languages:
+📜 JavaScript
+🐍 Python
+🌟 What I Do
+🔹 Build RESTful APIs and backend services
+🔹 Develop and maintain full-stack web applications
+🔹 Design and optimize databases for high-performance
+🔹 Implement secure user authentication and role-based access control
+🔹 Ensure web application performance and scalability
+
+📚 Currently Learning
+🔍 Advanced Security practices for Node.js and Django
+☁️ Exploring Cloud Deployment Options
+
+📂 Projects
+Check out my repositories for e-commerce, health tech, and library systems projects. I’m constantly exploring new challenges and building innovative applications!
+
+📫 Let's Connect
+Feel free to connect with me or collaborate on exciting projects! 😊
 
