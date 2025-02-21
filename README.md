@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @mugishab2020
-- 👀 I’m interested in software development ...
-- 🌱 I’m currently learning .javascript..
-- 💞️ I’m looking to collaborate on javascript...
-- 📫 How to reach me .just to help me to advamce woth javascript in all..
+Hi there! 👋 I'm Edson Mugisha
+💻 Backend & Full-Stack Developer | 🚀 Passionate about building scalable, efficient web applications.
 
-<!---
-mugishab2020/mugishab2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Technologies I work with:
+Backend: Node.js, Express.js, Django, Django REST Framework, FastAPI
+Frontend: React, HTML5
+Databases: MongoDB, PostgreSQL, MySQL, MySQL Server
+Languages: JavaScript, Python
+🌟 What I specialize in:
+Building RESTful APIs and backend services
+Full-stack development with modern JavaScript frameworks
+Database design, optimization, and management
+Secure user authentication and role-based access control
+Web application performance and scalability
+📚 Currently Learning:
+Advanced security practices for React Native and Mobile development Plus Next js 
+Exploring new cloud deployment options
+🔗 Projects:
+Check out my repositories for hands-on examples of applications in areas such as e-commerce, health tech, and library systems!
+
+Feel free to connect or collaborate—let’s build something great together! 😊
