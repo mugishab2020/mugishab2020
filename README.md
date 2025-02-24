@@ -6,19 +6,19 @@ I'm a passionate developer with a keen interest in web development and open-sour
 
 - 🌍 Based in: Kigali, Rwanda
 - 💼 Currently working on: Full-stack web development projects
-- 🌱 Learning: Advanced JavaScript and cloud technologies
+- 🌱 Learning: Mobile development
 - 👯 Looking to collaborate on: Open-source projects and innovative web applications
-- 💬 Ask me about: JavaScript, React, Node.js, and web development in general
+- 💬 Ask me about: JavaScript, React, Node.js, Express, Django Next.js, Python FastAPI, and web development in general
 - 📫 How to reach me: [Email](mailto:mugishab2020@example.com)
 - ⚡ Fun fact: I enjoy playing chess and exploring new technologies in my free time.
 
 ## 🛠️ Technologies and Tools
 
 - **Languages**: JavaScript, HTML, CSS, Python
-- **Frontend**: React, Redux, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, PostgreSQL
-- **DevOps**: Docker, Kubernetes, GitHub Actions
-- **Others**: Git, Webpack, Babel, Jest
+- **Frontend**: React,Next.js, Redux, Tailwind CSS
+- **Backend**: Node.js, Express, MongoDB, PostgreSQL, Mysql, FastAPI
+- **DevOps**: Docker, GitHub Actions
+- **Others**: Git,  Jest
 
 ## 📈 GitHub Stats
 
