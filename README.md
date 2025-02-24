@@ -10,7 +10,6 @@ I'm a passionate developer with a keen interest in web development and open-sour
 - 👯 Looking to collaborate on: Open-source projects and innovative web applications
 - 💬 Ask me about: JavaScript, React, Node.js, Express, Django Next.js, Python FastAPI, and web development in general
 - 📫 How to reach me: [Email](mailto:mugishab2020@example.com)
-- ⚡ Fun fact: I enjoy playing chess and exploring new technologies in my free time.
 
 ## 🛠️ Technologies and Tools
 
