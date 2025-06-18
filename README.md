@@ -8,14 +8,14 @@ I'm a passionate developer with a keen interest in web development and open-sour
 - 💼 Currently working on: Full-stack web development projects
 - 🌱 Learning: Mobile development
 - 👯 Looking to collaborate on: Open-source projects and innovative web applications
-- 💬 Ask me about: JavaScript, React, Node.js, Express, Django Next.js, Python FastAPI, and web development in general
+- 💬 Ask me about: JavaScript, React, Fask, Django-resf_framework, Node.js, Express, Django Next.js, Python FastAPI, and web development in general
 - 📫 How to reach me: [Email](mailto:mugishab2020@example.com)
 
 ## 🛠️ Technologies and Tools
 
 - **Languages**: JavaScript, HTML, CSS, Python
 - **Frontend**: React,Next.js, Redux, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, PostgreSQL, Mysql, FastAPI
+- **Backend**: Node.js, Express,Django-Rest-Framework, Flask, MongoDB, PostgreSQL, Mysql, FastAPI
 - **DevOps**: Docker, GitHub Actions
 - **Others**: Git,  Jest
 
